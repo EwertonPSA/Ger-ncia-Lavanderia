@@ -1,6 +1,11 @@
 {
+  "version": "0.0.0",
+  "scripts": {
+    "release": "standard-version"
+  },
   "devDependencies": {
-    "commitizen": "^4.3.0"
+    "commitizen": "^4.3.0",
+    "standard-version": "^9.5.0"
   },
   "config": {
     "commitizen": {
