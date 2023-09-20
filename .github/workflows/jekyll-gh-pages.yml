@@ -27,16 +27,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+        uses: actions/checkout@v2
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          source: ./
-          destination: ./_site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+          node-version: 14
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: ./front
+
+      - name: Build React App
+        run: npm run build
+        working-directory: ./front
+
+      - name: Archive production build
+        uses: actions/upload-artifact@v2
+        with:
+          name: build
+          path: ./front/build
 
   # Deployment job
   deploy:
@@ -49,3 +59,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          branch: gh-pages
+          folder: ./front/build
