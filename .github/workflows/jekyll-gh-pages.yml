@@ -34,9 +34,9 @@ jobs:
         with:
           node-version: 14
 
-      - name: CI
+      - name: Install packages
         run:
-          npm ci --prefix ./front/
+          npm install --prefix ./front/
 
       - name: Build
         run:
