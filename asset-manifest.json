@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ger-ncia-Lavanderia/static/css/main.d5abeb70.css",
+    "main.js": "/Ger-ncia-Lavanderia/static/js/main.78774825.js",
+    "static/js/787.71df535f.chunk.js": "/Ger-ncia-Lavanderia/static/js/787.71df535f.chunk.js",
+    "static/media/laundry-logo.png": "/Ger-ncia-Lavanderia/static/media/laundry-logo.067977d31665ddc3bd75.png",
+    "index.html": "/Ger-ncia-Lavanderia/index.html",
+    "main.d5abeb70.css.map": "/Ger-ncia-Lavanderia/static/css/main.d5abeb70.css.map",
+    "main.78774825.js.map": "/Ger-ncia-Lavanderia/static/js/main.78774825.js.map",
+    "787.71df535f.chunk.js.map": "/Ger-ncia-Lavanderia/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5abeb70.css",
+    "static/js/main.78774825.js"
+  ]
+}
