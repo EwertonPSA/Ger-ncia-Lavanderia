@@ -1,14 +1,11 @@
 import './App.css';
-import laundryLogo from './img/laundry-logo.png'
+import Logo from './components/Logo'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div className="App-logo">
-          <img src={laundryLogo} alt="landry logo"></img>
-          <p>Lavanderia</p>
-        </div>
+        <Logo></Logo>
       </header>
     </div>
   );

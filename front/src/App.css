@@ -1,11 +1,11 @@
 .App {
   text-align: center;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(35deg, #2d9bb9, #bee2ed);
 }
-
-.App-logo {
+.App-header {
   height: 50px;
-  pointer-events: none;
-  display: flex;
+  background: white;
+  padding: 10px;
 }
-
-.App-header {}
