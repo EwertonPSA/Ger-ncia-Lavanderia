@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.15](https://github.com/EwertonPSA/Ger-ncia-Lavanderia/compare/v0.0.14...v0.0.15) (2023-09-26)
+
+
+### Features
+
+* **header:** git header options and logout button ([c2fdd01](https://github.com/EwertonPSA/Ger-ncia-Lavanderia/commit/c2fdd01c5f3c2f3ee59476dbbcc7c159b7cf0ac2))
+
 ### [0.0.14](https://github.com/EwertonPSA/Ger-ncia-Lavanderia/compare/v0.0.13...v0.0.14) (2023-09-25)
 
 
