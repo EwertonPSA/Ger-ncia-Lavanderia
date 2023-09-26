@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.16](https://github.com/EwertonPSA/Ger-ncia-Lavanderia/compare/v0.0.15...v0.0.16) (2023-09-26)
+
+
+### Bug Fixes
+
+* **header:** added href in tooltip ([add8991](https://github.com/EwertonPSA/Ger-ncia-Lavanderia/commit/add8991e46154b3e9f606238d4f029860184c4f6))
+
 ### [0.0.15](https://github.com/EwertonPSA/Ger-ncia-Lavanderia/compare/v0.0.14...v0.0.15) (2023-09-26)
 
 
