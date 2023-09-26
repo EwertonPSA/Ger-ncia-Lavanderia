@@ -6,7 +6,7 @@ function Logout () {
   return (
     <div className="logout-class">
       <a 
-        href='' 
+        href='.' 
         data-tooltip-id="my-logout-tooltip" 
         data-tooltip-content="Deslogar"
       >
