@@ -1,0 +1,14 @@
+.logout-class {
+  display: flex;
+  margin-left: auto;
+  padding-right: 10px;
+  cursor: pointer;
+  width: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.logout-class img {
+  height: 100%;
+  width: 100%;
+}
