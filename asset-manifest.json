@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ger-ncia-Lavanderia/static/css/main.6a4e6dad.css",
-    "main.js": "/Ger-ncia-Lavanderia/static/js/main.e63985bf.js",
-    "static/js/787.71df535f.chunk.js": "/Ger-ncia-Lavanderia/static/js/787.71df535f.chunk.js",
+    "main.css": "/Ger-ncia-Lavanderia/static/css/main.532b294d.css",
+    "main.js": "/Ger-ncia-Lavanderia/static/js/main.dcffd307.js",
+    "static/js/453.80efc53e.chunk.js": "/Ger-ncia-Lavanderia/static/js/453.80efc53e.chunk.js",
     "static/media/laundry-logo.png": "/Ger-ncia-Lavanderia/static/media/laundry-logo.9b9cdcc3434bb1423e83.png",
     "index.html": "/Ger-ncia-Lavanderia/index.html",
-    "main.6a4e6dad.css.map": "/Ger-ncia-Lavanderia/static/css/main.6a4e6dad.css.map",
-    "main.e63985bf.js.map": "/Ger-ncia-Lavanderia/static/js/main.e63985bf.js.map",
-    "787.71df535f.chunk.js.map": "/Ger-ncia-Lavanderia/static/js/787.71df535f.chunk.js.map"
+    "main.532b294d.css.map": "/Ger-ncia-Lavanderia/static/css/main.532b294d.css.map",
+    "main.dcffd307.js.map": "/Ger-ncia-Lavanderia/static/js/main.dcffd307.js.map",
+    "453.80efc53e.chunk.js.map": "/Ger-ncia-Lavanderia/static/js/453.80efc53e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a4e6dad.css",
-    "static/js/main.e63985bf.js"
+    "static/css/main.532b294d.css",
+    "static/js/main.dcffd307.js"
   ]
 }
